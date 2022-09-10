@@ -1,0 +1,1 @@
+Crie uma função que recebe um numero por parâmetro e retorne se esse número é par ou impar

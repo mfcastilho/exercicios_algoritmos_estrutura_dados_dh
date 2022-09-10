@@ -1,0 +1,2 @@
+Crie uma função que recebe uma lista de números por parâmetro e retorne essa lista com os valores espelhados.
+Obs: Não utilizar o método reverse do JavaScript

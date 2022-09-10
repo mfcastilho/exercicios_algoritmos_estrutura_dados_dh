@@ -1,0 +1,1 @@
+Crie uma função que recebe uma lista de números e retorne somente os números positivos dessa lista. Se não tiver nenhum número positivo no array, retorne a string ‘Não há numeros positivos no array’
