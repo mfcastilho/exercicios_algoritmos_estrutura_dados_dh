@@ -1,2 +1,1 @@
 Crie uma função que recebe por parâmetro uma lista de números e retorne a soma de todos os números pares dessa lista.
-aaaaaaaaaaaa
